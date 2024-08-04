@@ -81,7 +81,7 @@ void shlok78();
 int main()
 {
    int a,w,x,y,z;
-   printf("||   HARE  KRISHNA   ||\n");
+   printf("||   RADHE  RADHE   ||\n");
    printf("=>Wellcome to bhagvat gita\n ");
    printf("=>Which adhyay you want to learn(1 to 18):\n ");
    scanf("%d",&x);
