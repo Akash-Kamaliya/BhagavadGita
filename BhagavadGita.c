@@ -79,6 +79,7 @@ void shlok76();
 void shlok77();
 void shlok78();
 int main()
+
 {
    int a,w,x,y,z;
    printf("||   RADHE  RADHE   ||\n");
