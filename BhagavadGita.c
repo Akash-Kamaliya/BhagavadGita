@@ -82,7 +82,7 @@ int main()
 {
    int a,w,x,y,z;
    printf("||   RADHE  RADHE   ||\n");
-   printf("=>Wellcome to bhagvat gita\n ");
+   printf("=>Wellcome to Bhagavad Gita\n ");
    printf("=>Which adhyay you want to learn(1 to 18):\n ");
    scanf("%d",&x);
             if(x>0 && x<=18)
